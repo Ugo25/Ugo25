@@ -26,9 +26,9 @@ y al mismo tiempo fortalecer mi base en **redes Cisco (CCNA)** para avanzar haci
 |  Desarrollo Web | HTML, CSS, JavaScript (básico), Supabase |
 |  Desarrollo Móvil | Android Studio (Kotlin / Java) |
 |  Programación | C++, C, Java |
-|  Redes | VLANs, DHCP, Routing, Subnetting (Cisco Packet Tracer) |
+|  Redes | VLANs, DHCP, Routing, Subnetting |
 |  Ciberseguridad | Pentesting, Red Team (en formación) |
-|  Herramientas | Git, GitHub, Wireshark, Linux, Visual Studio, NetBeans |
+|  Herramientas | Git, GitHub, Wireshark, Linux, Metasploit, Burp Suite, ffuf, gobuster, SecLists, DNSrecon, Sublist3r |
 
 ---
 
