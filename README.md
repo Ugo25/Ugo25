@@ -72,8 +72,8 @@ Laboratorios de práctica en Packet Tracer con topologías, VLANs, DHCP y routin
 
 ### 📈 Actividad reciente
 
-![Hugo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Ugo25&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Ugo25&layout=compact&theme=radical)
+![Hugo's GitHub stats](./profile/stats.svg)
+![Top Langs](./profile/top-langs.svg)
 
 ---
 
