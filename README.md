@@ -80,11 +80,10 @@ Laboratorios de práctica en Packet Tracer con topologías, VLANs, DHCP y routin
     <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" alt="Email" width="35" height="35"/>
   </a>
 </p>
+
 ---
  
 ### Actividad reciente
  
 ![Hugo's GitHub stats](./profile/stats.svg)
 ![Top Langs](./profile/top-langs.svg)
- 
----
